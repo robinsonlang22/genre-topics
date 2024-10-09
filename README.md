@@ -1,9 +1,2 @@
 # topic-modelling for various genres
-The study utilized topic-modelling method to research the topics of different genres of literature, the three genres are **children**, **fantasy**, **science-fiction** and their sub-genres. 
-## Table of Contents
-- [literature corpus](#literature-corpus)
-- [analyzer](#analyzer)
-  
-## literature corpus
-
-## analyzer
+The study utilized the topic modelling method to research the differences in the represented topics of different genres of literature. The three genres are **children**, **fantasy**, **science-fiction**, and their sub-genres. The corpus is built based on the original texts, and genre index processing is based on the data extracted from **SPGC**. The **LDA model** was selected to do the topic modelling tasks. The topic number of the LDA model was optimized objectively by **topic coherence** and subjectively by **pyLDAvis**.
